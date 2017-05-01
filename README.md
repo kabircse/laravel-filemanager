@@ -27,3 +27,6 @@ Special thanks to
  * [@taswler](https://github.com/tsawler) the original author.
  * [@olivervogel](https://github.com/olivervogel) for the awesome [image library](https://github.com/Intervention/image).
  * All [@UniSharp](https://github.com/UniSharp) members.
+
+
+Integration video: https://www.youtube.com/watch?v=vBzg0Us5MDk
